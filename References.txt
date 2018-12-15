@@ -1,0 +1,26 @@
+https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies
+https://scotch.io/bar-talk/why-jwts-suck-as-session-tokens
+https://kev.inburke.com/kevin/things-to-use-instead-of-jwt/
+https://blog.angular-university.io/angular-jwt/
+https://blog.codecentric.de/en/2017/08/use-json-web-tokens-services/
+https://medium.com/@robert.broeckelmann/jwt-use-cases-bb94e4e70949
+https://auth0.com/learn/json-web-tokens/
+
+
+
+Downstream services:  Call to main app might make a request to a downstream server. Cookies don't flow easliy to the downstream servers. JWT tokens can be easily passed along
+
+Commonly used for SSO
+
+https://lbadri.wordpress.com/2012/07/30/anatomy-of-a-simple-web-token-swt/
+
+https://stackoverflow.com/questions/20398564/simple-web-token-swt-authentication-in-web-api-2-odata-endpoint
+
+https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec
+
+https://zapier.com/engineering/apikey-oauth-jwt/
+
+
+API Key: Developer quickstart
+JWT: Good for limiting database lookups
+OAuth: Great for accessing user data
