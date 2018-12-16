@@ -24,3 +24,6 @@ https://zapier.com/engineering/apikey-oauth-jwt/
 API Key: Developer quickstart
 JWT: Good for limiting database lookups
 OAuth: Great for accessing user data
+
+
+https://auth0.com/blog/critical-vulnerabilities-in-json-web-token-libraries/
